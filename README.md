@@ -2,7 +2,7 @@
 
 Doctoral Students Funding Calendar helps you to find the best funding progam for you.
 
-This website is forked from [HCI Calendar](https://hci-calendar.github.io).
+This website is forked from [Naoki-LMD/doctor-funding-calendar](https://github.com/Naoki-LMD/doctor-funding-calendar).
 
 # For contributors
 
