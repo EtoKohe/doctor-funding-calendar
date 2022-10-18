@@ -45,9 +45,9 @@ permalink: /
       <p>
           <a href="{{site.baseurl}}/table">データを表形式でもご覧になれます。</a>より詳細な比較にお使いください。
       </p>
-      <h4 class="text-center">ご指摘・ご要望</h4>
+      <h4 class="text-center">謝辞</h4>
       <p>
-        本ページの内容はGitHubで管理しております。ご指摘やご要望は、IssueやPull Requestでぜひお寄せください。
+        本ページはkn1cht様作成のdoctor-funding-calendarを元に北大生向けに編集したものです。この場を借りて御礼申し上げます。本家リポジトリは以下のボタンより。
       </p>
       <a href="https://github.com/kn1cht/doctor-funding-calendar/issues" class="btn btn-light" target="_blank" rel="noopener noreferrer">
         <i class="fab fa-github" aria-hidden="true"></i>
