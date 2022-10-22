@@ -46,7 +46,7 @@ permalink: /
       </p>
       <h4 class="text-center">謝辞</h4>
       <p>
-        本ページはkn1cht様のdoctor-funding-calendarを北大院情報の博士学生向けに編集したものになります。この場を借りて御礼申し上げます。本家リポジトリは以下の編集を提案ボタンより。
+        本ページはkn1cht様のdoctor-funding-calendarを北大院情報の博士学生向けに編集したものです。この場を借りて御礼申し上げます。本家リポジトリは以下の編集を提案ボタンより。
       </p>
       <a href="https://github.com/kn1cht/doctor-funding-calendar/issues" class="btn btn-light" target="_blank" rel="noopener noreferrer">
         <i class="fab fa-github" aria-hidden="true"></i>
